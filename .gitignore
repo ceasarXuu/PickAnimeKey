@@ -1,6 +1,7 @@
 # 项目特定忽略文件
 output/
-out/
+out/*
+!out/.gitkeep
 test_video/
 
 # Python 相关
