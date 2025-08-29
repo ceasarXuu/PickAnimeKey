@@ -1,0 +1,24 @@
+# 动漫关键帧项目依赖包
+# 核心计算机视觉库
+opencv-python>=4.5.0
+
+# 深度学习框架
+torch>=1.9.0
+torchvision>=0.10.0
+
+# 数据处理和科学计算
+numpy>=1.20.0
+
+# 进度条显示
+tqdm>=4.60.0
+
+# 内置库（无需安装）
+# json - Python 内置
+# os - Python 内置  
+# sys - Python 内置
+# argparse - Python 内置
+# shutil - Python 内置
+# time - Python 内置
+# math - Python 内置
+# datetime - Python 内置
+# typing - Python 内置（3.5+）
