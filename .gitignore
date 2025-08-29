@@ -165,6 +165,8 @@ Desktop.ini
 # 缓存文件
 *.cache
 
-# 模型文件（如果很大的话）
+# 模型文件（如果很大的话，但保留 source 文件夹中的模型）
 *.pb
 *.tar.gz
+!source/*.pb
+!source/*.tar.gz
